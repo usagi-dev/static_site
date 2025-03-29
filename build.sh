@@ -1,1 +1,1 @@
-python3 src/main.py "/usagi-dev/"
+python3 src/main.py "/static_site/"
